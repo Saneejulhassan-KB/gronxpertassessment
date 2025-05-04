@@ -30,3 +30,7 @@
 - **cd server**
 - **npm install**
 
+## Frontend Setup
+- **cd client**
+- **npm install**
+
