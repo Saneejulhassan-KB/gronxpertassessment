@@ -41,4 +41,7 @@
 - **EMAIL_USER=your_email@example.com**
 - **EMAIL_PASS=your_email_password**
 
+## Start the Frontend and Backend using :
+- **npm run dev**
+
 
