@@ -24,5 +24,5 @@
 
 ## Clone the Repository
 
-**git clone https://github.com/your-username/mern-stack-app.git**
+**git clone https://github.com/Saneejulhassan-KB/gronxpertassessment.git**
 
