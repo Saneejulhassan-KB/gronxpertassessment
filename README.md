@@ -26,3 +26,7 @@
 
 **git clone https://github.com/Saneejulhassan-KB/gronxpertassessment.git**
 
+## Backend Setup
+- **cd server**
+- **npm install**
+
